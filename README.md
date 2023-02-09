@@ -1,6 +1,6 @@
 # Testing-node
 
-EJERCICIOS PRÁCITOCS DE TESTING TDD
+EJERCICIOS PRÁCTICOS DE TESTING TDD
 
 FIZZBUZZ ->  Dada una lista de numeros de 1 a 100, 
                 - imprime la palabra FIZZ si es multiple de 3
